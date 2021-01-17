@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../B2C-Ecommerce-Backend\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../:\PGDACProject\B2C-Ecommerce-Backend\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
